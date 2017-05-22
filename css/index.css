@@ -1,0 +1,27 @@
+* {margin: 0px;}
+
+body{height: 710px;}
+
+#title_area{height: 35px; width: 100%; line-height: 34px;}
+#title_area_left {width: 50%; float: left;}
+#title_area_right {width: 50%; float: left; display: flex; justify-content: flex-end;}
+#title_name {font-size: 13px; font-family: "微软雅黑"; margin-left: 10px; margin-right: 10px;}
+
+
+#menu_area{height: 120px; width: 100%; background-color: lightgrey;}
+
+#menu_area_tab {width: 80%; height: 100%; float: left;}
+#menu_area_tab .menu_tab {background-color: blueviolet; width: 100px; height: 100%; float: left; margin-left: 15px;}
+
+#menu_area_logo {width:20%; height: 100%; float:left; background-color: darkkhaki;}
+
+
+#func_area{height: 450px; width: 100%;}
+#func_area .func_panel {width: 100%; height: 100%; background-color: lightgrey; display: none;}
+
+
+#info_area{height: 120px; width: 100%; background-color: lightgrey;}
+
+
+#status_area{height: 35px; width: 100%;}
+
